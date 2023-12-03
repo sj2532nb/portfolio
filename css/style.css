@@ -69,7 +69,18 @@
 		.content-portfolio{position:relative; width:100%; margin-top:70px; opacity:0;}
 			.content-wrap{width:100%; padding-bottom:100px; border-bottom:1px slide #000;}
 				.content-img-wrap{float:left; width:50%;}
+				.content-img-wrap>a:hover>img{width:100%; display: none;}
+				.content-img-wrap>a:hover>.develop-environment{width:100%; height: 580px; display: block;}
 				.content-img-wrap>a>img{width:100%;}
+				.content-img-wrap>a>.develop-environment{width:100%; height: 100%; padding: 0 60px; text-transform: none; display: none;}
+				.content-img-wrap>a>.develop-environment>table{width:100%;}
+				.content-img-wrap>a>.develop-environment>table>thead{width:100%;}
+				.content-img-wrap>a>.develop-environment>table>thead>tr{}
+				.content-img-wrap>a>.develop-environment>table>thead>tr>th{font-size: 50px; padding: 100px 0 50px 50px;}
+				.content-img-wrap>a>.develop-environment>table>tbody{width:100%;}
+				.content-img-wrap>a>.develop-environment>table>tbody>tr{}
+				.content-img-wrap>a>.develop-environment>table>tbody>tr>td{text-align: left; padding: 15px 30px;}
+				.content-img-wrap>a>.develop-environment>table>tbody>tr>td.right{padding: 15px 60px 15px 0;}
 				
 				
 				.content-txt-wrap{float:right; width:45%;}
