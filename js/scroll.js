@@ -40,7 +40,7 @@ $(function(){
 	function showContent(){
 		
 		if( $(window).scrollTop() > $('.content-portfolio').eq(cnt).offset().top){
-			$('.content-portfolio').eq(cnt+1).stop().animate({marginTop:0, opacity:1},1000);
+			$('.content-portfolio').eq(cnt+1).stop().animate({marginTop:0, opacity:1},3000);
 			cnt++;
 		}
 	}
