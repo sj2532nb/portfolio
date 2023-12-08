@@ -111,7 +111,7 @@
 	#section3>div>ul>li>div>a>img:hover{width:100%;
 			transform: scale(1.1);
 			opacity: 0.2;
-			cursor: url(/img/icon-zoom.png), auto;}
+			cursor: url(../img/icon-zoom.png), auto;}
 	#section3>div>ul>li>div>h3{padding-top:15px; font-size:18px; text-align:center; font-weight:500;}
 	#section3>div>ul>li>div>table{width: 355px; color: #000; text-transform: none; text-align: left;}
 	#section3>div>ul>li>div>table>caption{width: 355px;padding: 10px 0; color: blueviolet; border-bottom: 1px solid blueviolet;}
